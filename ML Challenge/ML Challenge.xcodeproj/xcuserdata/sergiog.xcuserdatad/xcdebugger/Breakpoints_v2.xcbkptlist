@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F23C9A5-0405-40AA-B3C0-EDC42FB5DA44"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDD7EEAE-DF11-4134-83DB-D3E3D416300B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "dissmiss()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDD7EEAE-DF11-4134-83DB-D3E3D416300B - e795fdd0dbc3efc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemView.textFieldDidChangeSelection(__C.UITextField) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "DDD7EEAE-DF11-4134-83DB-D3E3D416300B - ea851a066ee14515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemView.dissmiss() -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DDD7EEAE-DF11-4134-83DB-D3E3D416300B - ea851a066ee1468a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemView.dissmiss() -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB3CA245-BFE1-4C68-BC2A-B53FB668C4E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "findItem(strWord:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB3CA245-BFE1-4C68-BC2A-B53FB668C4E4 - c21e2ad6d5eed146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemInteractor.findItem(strWord: Swift.String) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/ML%20Challenge/ML%20Challenge/Items/ItemInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "CB3CA245-BFE1-4C68-BC2A-B53FB668C4E4 - c21e2ad6d5eed146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemInteractor.findItem(strWord: Swift.String) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/ML%20Challenge/ML%20Challenge/Items/ItemInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "CB3CA245-BFE1-4C68-BC2A-B53FB668C4E4 - 21eeaf9dd5535289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemInteractor.findItem(strWord: Swift.String) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "CB3CA245-BFE1-4C68-BC2A-B53FB668C4E4 - 21eeaf9dd5535289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemInteractor.findItem(strWord: Swift.String) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90FDC3D3-A9FF-44EB-B253-897D0043C1B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemRemoteDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getItems(strFind:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90FDC3D3-A9FF-44EB-B253-897D0043C1B6 - 2adfa120c5ebed08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "90FDC3D3-A9FF-44EB-B253-897D0043C1B6 - 2adfa120c5ebed08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "90FDC3D3-A9FF-44EB-B253-897D0043C1B6 - 2adfa120c5ebed08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C09CCC7-EF3A-4061-BC29-F51ADFE5A9F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemRemoteDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getItems(strFind:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C09CCC7-EF3A-4061-BC29-F51ADFE5A9F0 - 2adfa120c5ebefdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "7C09CCC7-EF3A-4061-BC29-F51ADFE5A9F0 - 2adfa120c5ebefdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "7C09CCC7-EF3A-4061-BC29-F51ADFE5A9F0 - 2adfa120c5ebefdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEB6C041-F875-4036-A09D-946D7B223DEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemRemoteDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getItems(strFind:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEB6C041-F875-4036-A09D-946D7B223DEA - cd52505723c400a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "CEB6C041-F875-4036-A09D-946D7B223DEA - 2adfa120c5ebeffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "CEB6C041-F875-4036-A09D-946D7B223DEA - 2adfa120c5ebeffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "CEB6C041-F875-4036-A09D-946D7B223DEA - 2adfa120c5ebeffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ML_Challenge.ItemRemoteDataManager.getItems(strFind: Swift.String, completion: (Swift.Result&lt;ML_Challenge.ReponseMLChallenge, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/Items/ItemRemoteDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DAA1081-C309-41F2-8695-B527C3DB87E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "createItemList(result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DAA1081-C309-41F2-8695-B527C3DB87E9 - 542a1465b04d2ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ML_Challenge.ItemListRouter.createItemList() -&gt; __C.UIViewController"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "0DAA1081-C309-41F2-8695-B527C3DB87E9 - 60785c3ef46dde37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ML_Challenge.ItemListRouter.createItemList(result: ML_Challenge.ReponseMLChallenge) -&gt; __C.UIViewController"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "0DAA1081-C309-41F2-8695-B527C3DB87E9 - 60785c3ef46dde37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ML_Challenge.ItemListRouter.createItemList(result: ML_Challenge.ReponseMLChallenge) -&gt; __C.UIViewController"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0A640F2-FE95-4FF5-92FA-9BAF95E167CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/Items/ItemInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "findItem(strWord:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CE7E94-FED5-4CB0-A7E3-BAB2F0B7EAB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7CE7E94-FED5-4CB0-A7E3-BAB2F0B7EAB5 - d4edce341869da9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B7CE7E94-FED5-4CB0-A7E3-BAB2F0B7EAB5 - bc51969b95771a59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+               <Location
+                  uuid = "B7CE7E94-FED5-4CB0-A7E3-BAB2F0B7EAB5 - bc51969b95771a59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "B7CE7E94-FED5-4CB0-A7E3-BAB2F0B7EAB5 - bc51969b95771a59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63259C9E-0B3F-46E1-B574-E091296AC3D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11C0E098-2E41-4847-AF88-0EEAA2930EE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D986FB3-6FF5-40F0-8209-BA49C53922BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A59F6D56-8792-48AD-97CF-A34E4B802B7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ML Challenge/ListItem/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A59F6D56-8792-48AD-97CF-A34E4B802B7F - d4edce341869c5fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "A59F6D56-8792-48AD-97CF-A34E4B802B7F - d4edce341869c5fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ML_Challenge.ItemListView.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "ML Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergiog/Desktop/Pau%20Proyecto/MyMLProject/ML%20Challenge/ML%20Challenge/ListItem/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
