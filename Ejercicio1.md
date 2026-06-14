@@ -1,35 +1,39 @@
 ```mermaid
-erDiagram
-    SOCIO {
-        int id_socio PK
-        string curp_socio
-        string nombre
-        string direccion
-        string telefono
-    }
-    BARCO {
-        string num_matricula PK
-        string nombre_barco
-        int num_amarre
-        decimal cuota_pago
-        int id_socio FK
-    }
-    CAPITAN {
-        int id_capitan PK
-        string curp_capitan
-        string nombre
-        string direccion
-        string telefono
-    }
-    SALIDA {
-        int id_salida PK
-        date fecha_salida
-        time hora_salida
-        string destino
-        string num_matricula FK
-        int id_capitan FK
-    }
+graph TD
+    %% Entidades (Rectángulos)
+    S[SOCIO]
+    B[BARCO]
+    C[CAPITÁN]
+    SA[SALIDA]
 
-    SOCIO ||--o{ BARCO : "posee"
-    BARCO ||--o{ SALIDA : "realiza"
-    CAPITAN ||--o{ SALIDA : "dirige"
+    %% Relaciones (Rombos)
+    R1{posee}
+    R2{realiza}
+    R3{dirige}
+
+    %% Atributos Socio (Óvalos)
+    A1(((id_socio))) --- S
+    A2((nombre)) --- S
+    A3((telefono)) --- S
+
+    %% Atributos Barco (Óvalos)
+    B1(((num_matricula))) --- B
+    B2((nombre_barco)) --- B
+    B3((num_amarre)) --- B
+
+    %% Atributos Capitán (Óvalos)
+    C1(((id_capitan))) --- C
+    C2((nombre)) --- C
+
+    %% Atributos Salida (Óvalos)
+    S1(((id_salida))) --- SA
+    S2((fecha_salida)) --- SA
+    S3((destino)) --- SA
+
+    %% Conexiones con Cardinalidad
+    S -- "1" --- R1
+    R1 -- "N" ---> B
+    B -- "1" --- R2
+    R2 -- "N" ---> SA
+    C -- "1" --- R3
+    R3 -- "N" ---> SA
